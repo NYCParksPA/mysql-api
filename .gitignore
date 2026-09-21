@@ -1,0 +1,16 @@
+.env
+.vscode/settings.json
+# dependencies
+/node_modules
+/npm_cache
+npm_cache/
+ecosystem.config.js
+files/_uploads/*
+files/cpsa_angular/
+files/document/
+files/helpdesk_v2
+files/xternal
+log/
+log/.audit.json
+**/*.log
+

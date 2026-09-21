@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "dbuser" : "webapp",
+    "dbpwd"  : "webapp",	
+    "dbport" : 3306,
+    "conLimit" : 10,
+    "multipleStatements" : true
+}
